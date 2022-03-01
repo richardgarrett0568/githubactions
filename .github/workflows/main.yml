@@ -35,6 +35,6 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
       - name: list current contents
-        run: ls -la
+        run: ls -la.
       - name: run script
         run: script.sh
