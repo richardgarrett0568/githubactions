@@ -35,6 +35,5 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
       - name: list current contents
-        run: ls -la.
-      - name: run script
-        run: https://github.com/richardgarrett0568/githubactions/blob/main/script.sh
+        run: ls -la
+     
